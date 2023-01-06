@@ -1,7 +1,7 @@
 # Latihan Soal kelas Online DenyOcr
 
 Info Kelas:<br>
-https://capekngoding.com<br>
+https://www.youtube.com/watch?v=xfTsgNcoNUI<br>
 
 Youtube:<br>
 https://www.youtube.com/@CapekNgoding<br>
