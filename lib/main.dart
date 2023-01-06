@@ -2,12 +2,17 @@ import 'package:exercise/module/dashboard/view/dashboard_view.dart';
 import 'package:exercise/state_util.dart';
 import 'package:flutter/material.dart';
 
+import 'module/service_exercise/__solution/__index.dart';
+
 /*
 Latihan soal kelas Online with DenyOcr
 https://capekngoding.com
 */
 
 void main() {
+  //Daftar isi latihan soalnya bisa dibuka disini yaa:
+  var _ = exerciseList;
+  //--------------------------
   runApp(const MyApp());
 }
 

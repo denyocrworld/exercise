@@ -5,7 +5,7 @@ import 'package:exercise/module/service_exercise/__solution/product_service.dart
 import 'package:exercise/module/service_exercise/__solution/user_service.dart';
 
 // ignore: unused_element
-var __exerciseList = [
+var exerciseList = [
   ExProductService(),
   ExCustomerService(),
   ExUserService(),
